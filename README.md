@@ -73,7 +73,7 @@ Git, GitHub, Visual Studio, Visual Studio Code, Blender
 
 ## CV & LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/enes-balaban-5411b7329/)
-- [CV](./enes_balaban_CV.pdf)
+- [CV](./enes_balaban_cv.pdf)
 
 
 ## Contact
