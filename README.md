@@ -37,7 +37,7 @@ SQL, Oracle Database, SQL Server
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,blender" />
 </p>
-Git, GitHub, Visual Studio, Visual Studio Code
+Git, GitHub, Visual Studio, Visual Studio Code, Blender
 
 ## GitHub Stats
 
@@ -63,9 +63,22 @@ Git, GitHub, Visual Studio, Visual Studio Code
 - Share projects with clear explanations
 - Develop a stronger software portfolio
 
+## Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Portfolio Website](https://github.com/Enes-Balaban17/portfolio-website) | My personal portfolio website built to showcase my projects, skills, and development journey. | HTML, CSS, JavaScript |
+| Project 2 | Coming soon. | - |
+| Project 3 | Coming soon. | - |
+
+## CV & LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/enes-balaban-5411b7329/)
+- [CV](./enes_balaban_CV.pdf)
+
+
 ## Contact
 
-You can reach me through GitHub, Email, Linkedln & Personal Website
+You can reach me through GitHub, Email, & Personal Website
 
 [GitHub Profile](https://github.com/Enes-Balaban17)
-[Email](balabanenes111@icloud.com)
+Email: [balabanenes111@icloud.com](mailto:balabanenes111@icloud.com)
