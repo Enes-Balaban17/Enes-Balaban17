@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Enes Balaban
 
-<!--
-**Enes-Balaban17/Enes-Balaban17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Programming student at Ege University, interested in software development, data analysis, artificial intelligence, and hardware-based systems.
 
-Here are some ideas to get you started:
+I use GitHub to share my projects, document my learning process, and improve my software development skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Computer Programming student
+- Interested in software development, data analysis, and artificial intelligence
+- Working on web, database, and hardware-based projects
+- Focused on improving my project development and problem-solving skills
+
+## Technologies & Tools
+
+- Programming Languages: Java, C#, C, C++, Python, JavaScript
+- Web Technologies: HTML, CSS, JavaScript
+- Databases: SQL, Oracle Database, SQL Server
+- Tools: Git, GitHub, Visual Studio, Visual Studio Code
+- Other Interests: Artificial Intelligence, Data Analysis, Embedded Systems, Drone Projects
+
+## Current Focus
+
+- Building my GitHub portfolio
+- Improving my web development skills
+- Developing beginner, intermediate, and advanced software projects
+- Working on personal and academic projects
+
+## Featured Projects
+
+Projects will be added here as I develop and publish them.
+
+## Contact
+
+- GitHub: [Enes-Balaban17](https://github.com/Enes-Balaban17)
