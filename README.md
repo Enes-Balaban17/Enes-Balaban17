@@ -15,16 +15,39 @@ I enjoy building practical projects, learning new technologies, and improving my
 ## Tech Stack
 
 ### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python,js" />
+</p>
+
 Java, C#, C, C++, Python, JavaScript
 
 ### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 HTML, CSS, JavaScript
 
 ### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
 SQL, Oracle Database, SQL Server
 
 ### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,blender" />
+</p>
 Git, GitHub, Visual Studio, Visual Studio Code
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Enes-Balaban17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Balaban17&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Enes-Balaban17&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
 ## What I'm Working On
 
@@ -42,6 +65,7 @@ Git, GitHub, Visual Studio, Visual Studio Code
 
 ## Contact
 
-You can reach me through GitHub.
+You can reach me through GitHub, Email, Linkedln & Personal Website
 
 [GitHub Profile](https://github.com/Enes-Balaban17)
+[Email](balabanenes111@icloud.com)
