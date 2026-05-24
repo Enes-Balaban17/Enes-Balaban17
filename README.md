@@ -73,12 +73,12 @@ Git, GitHub, Visual Studio, Visual Studio Code, Blender
 
 ## CV & LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/enes-balaban-5411b7329/)
-- [CV](./enes_balaban_cv.pdf)
+- [CV](./enes-balaban-cv.pdf)
 
 
 ## Contact
 
 You can reach me through GitHub, Email, & Personal Website
 
-[GitHub Profile](https://github.com/Enes-Balaban17)
-Email: [balabanenes111@icloud.com](mailto:balabanenes111@icloud.com)
+- [GitHub Profile](https://github.com/Enes-Balaban17)
+- Email: [balabanenes111@icloud.com](mailto:balabanenes111@icloud.com)
