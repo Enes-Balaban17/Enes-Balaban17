@@ -2,34 +2,46 @@
 
 I am a Computer Programming student at Ege University, interested in software development, data analysis, artificial intelligence, and hardware-based systems.
 
-I use GitHub to share my projects, document my learning process, and improve my software development skills step by step.
+I enjoy building practical projects, learning new technologies, and improving my skills through hands-on development.
 
 ## About Me
 
 - Computer Programming student
-- Interested in software development, data analysis, and artificial intelligence
-- Working on web, database, and hardware-based projects
-- Focused on improving my project development and problem-solving skills
+- Interested in software development and data analysis
+- Focused on artificial intelligence and hardware-based systems
+- Building my GitHub portfolio step by step
+- Open to internship and project opportunities
 
-## Technologies & Tools
+## Tech Stack
 
-- Programming Languages: Java, C#, C, C++, Python, JavaScript
-- Web Technologies: HTML, CSS, JavaScript
-- Databases: SQL, Oracle Database, SQL Server
-- Tools: Git, GitHub, Visual Studio, Visual Studio Code
-- Other Interests: Artificial Intelligence, Data Analysis, Embedded Systems, Drone Projects
+### Programming Languages
+Java, C#, C, C++, Python, JavaScript
 
-## Current Focus
+### Web Development
+HTML, CSS, JavaScript
 
-- Building my GitHub portfolio
-- Improving my web development skills
-- Developing beginner, intermediate, and advanced software projects
-- Working on personal and academic projects
+### Database
+SQL, Oracle Database, SQL Server
 
-## Featured Projects
+### Tools
+Git, GitHub, Visual Studio, Visual Studio Code
 
-Projects will be added here as I develop and publish them.
+## What I'm Working On
+
+- Personal portfolio website
+- Beginner and intermediate software projects
+- Database and data analysis projects
+- Hardware and drone-related projects
+
+## GitHub Goals
+
+- Build clean and well-documented repositories
+- Improve my README writing skills
+- Share projects with clear explanations
+- Develop a stronger software portfolio
 
 ## Contact
 
-- GitHub: [Enes-Balaban17](https://github.com/Enes-Balaban17)
+You can reach me through GitHub.
+
+[GitHub Profile](https://github.com/Enes-Balaban17)
